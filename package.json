@@ -1,0 +1,18 @@
+{
+    "name": "synthelix",
+    "version": "1.0.0",
+    "description": "Автоматизированный бот для Synthelix с интерактивным меню",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "chalk": "^4.1.2",
+        "dotenv": "^16.0.0",
+        "ethers": "^5.7.2",
+        "https-proxy-agent": "^5.0.0",
+        "socks-proxy-agent": "^6.0.0",
+        "user-agents": "^1.0.1"
+    }
+}
